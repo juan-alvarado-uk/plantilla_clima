@@ -18,8 +18,8 @@ npm -v
 **1. Clone this repository :**
 
 ```sh
-git clone --depth 1 https://github.com/Juan-Alvarado/weatherapp-boilerplate.git weather-app
-cd weather-app
+git clone --depth 1 https://github.com/juan-alvarado-uk/plantilla_clima.git clima-app
+cd clima-app
 ```
 
 **2. Make it your own :**
